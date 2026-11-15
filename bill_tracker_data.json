@@ -1,0 +1,127 @@
+{
+  "settings": {
+    "paycheck_amount_cents": 268000,
+    "checking_balance_cents": 48000,
+    "credit_card_debt_cents": 100000,
+    "grocery_amount_cents": 50000,
+    "payday_anchor": "2026-10-08"
+  },
+  "bills": [
+    {
+      "id": 1,
+      "name": "Nelnet",
+      "amount_cents": 14500,
+      "due_day": 27,
+      "assignment": "second_paycheck",
+      "is_autopay": true
+    },
+    {
+      "id": 2,
+      "name": "Diapers",
+      "amount_cents": 8500,
+      "due_day": 1,
+      "assignment": "due_date",
+      "is_autopay": false
+    },
+    {
+      "id": 3,
+      "name": "K loans",
+      "amount_cents": 110000,
+      "due_day": 1,
+      "assignment": "due_date",
+      "is_autopay": false
+    },
+    {
+      "id": 4,
+      "name": "Heat",
+      "amount_cents": 91000,
+      "due_day": 1,
+      "assignment": "due_date",
+      "is_autopay": false
+    },
+    {
+      "id": 5,
+      "name": "Electric",
+      "amount_cents": 30000,
+      "due_day": 1,
+      "assignment": "due_date",
+      "is_autopay": false
+    },
+    {
+      "id": 6,
+      "name": "Sprint",
+      "amount_cents": 9400,
+      "due_day": 30,
+      "assignment": "due_date",
+      "is_autopay": true
+    },
+    {
+      "id": 7,
+      "name": "Dog food",
+      "amount_cents": 5000,
+      "due_day": 1,
+      "assignment": "due_date",
+      "is_autopay": false
+    },
+    {
+      "id": 8,
+      "name": "Rent",
+      "amount_cents": 140000,
+      "due_day": 1,
+      "assignment": "second_paycheck",
+      "is_autopay": false
+    },
+    {
+      "id": 9,
+      "name": "Fidium",
+      "amount_cents": 8500,
+      "due_day": 21,
+      "assignment": "due_date",
+      "is_autopay": true
+    },
+    {
+      "id": 10,
+      "name": "Peleton",
+      "amount_cents": 1500,
+      "due_day": 25,
+      "assignment": "due_date",
+      "is_autopay": true
+    },
+    {
+      "id": 11,
+      "name": "Apple storage",
+      "amount_cents": 400,
+      "due_day": 25,
+      "assignment": "due_date",
+      "is_autopay": true
+    },
+    {
+      "id": 12,
+      "name": "NASM",
+      "amount_cents": 8400,
+      "due_day": 4,
+      "assignment": "due_date",
+      "is_autopay": true
+    }
+  ],
+  "paid_keys": [],
+  "received_paychecks": [],
+  "monthly_finances": {
+    "2026-11": {
+      "checking_cents": 48000,
+      "debt_cents": 100000
+    },
+    "2027-01": {
+      "checking_cents": 0,
+      "debt_cents": 0
+    },
+    "2027-03": {
+      "checking_cents": 0,
+      "debt_cents": 0
+    },
+    "2027-02": {
+      "checking_cents": 0,
+      "debt_cents": 0
+    }
+  }
+}
